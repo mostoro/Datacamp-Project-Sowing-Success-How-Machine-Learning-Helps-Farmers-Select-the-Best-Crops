@@ -1,0 +1,2 @@
+# Datacamp-Project-Sowing-Success-How-Machine-Learning-Helps-Farmers-Select-the-Best-Crops
+“Sowing Success” is a DataCamp project where machine learning is used to help farmers select the most suitable crops by analyzing soil metrics like nitrogen, phosphorus, potassium, and pH levels. This project builds a predictive model to recommend crops based on soil conditions, maximizing yield and supporting efficient farm management.
