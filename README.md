@@ -36,11 +36,3 @@ The model's performance and key feature importance are detailed in `notebook.ipy
   - `numpy`
   - `scikit-learn`
 
-## Usage
-
-Clone the repository and open `notebook.ipynb` to get started. Run the cells sequentially to load the data, train the model, and view results.
-
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-jupyter notebook notebook.ipynb
